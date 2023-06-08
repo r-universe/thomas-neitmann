@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "admiral.test"]
-	path = admiral.test
-	url = https://github.com/cran/admiral.test
-	shallow = true
-	registered = true
 [submodule "ggcharts"]
 	path = ggcharts
 	url = https://github.com/thomas-neitmann/ggcharts
